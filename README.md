@@ -21,10 +21,10 @@ to succesfully train the Neural Network.
 
 
 ## Dependencies:
-numpy == 1.19.5
-pandas == 1.1.5
-matplotlib == 3.2.2
-sklearn == 0.22.2
-keras == 2.4.3
-tensorflow == 2.4.1
-PyPDF2 == 1.26.0
+ - numpy == 1.19.5,
+ - pandas == 1.1.5,
+ - matplotlib == 3.2.2,
+ - sklearn == 0.22.2,
+ - keras == 2.4.3,
+ - tensorflow == 2.4.1,
+ - PyPDF2 == 1.26.0
